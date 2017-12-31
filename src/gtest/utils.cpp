@@ -1,6 +1,4 @@
-#include "zcash/JoinSplit.hpp"
 
-ZCJoinSplit* params = ZCJoinSplit::Unopened();
 
 int GenZero(int n)
 {

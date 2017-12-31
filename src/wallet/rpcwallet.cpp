@@ -2543,11 +2543,7 @@ UniValue zc_benchmark(const UniValue& params, bool fHelp)
 
     std::vector<double> sample_times;
 
-    if (benchmarktype == "createjoinsplit") {
-        /* Load the proving now key so that it doesn't happen as part of the
-         * first joinsplit. */
-        pzcashParams->loadProvingKey();
-    }
+
 
     JSDescription samplejoinsplit;
 
