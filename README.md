@@ -41,7 +41,7 @@ Building
 --------
 
 Currently only Linux is officially supported.
-Requires at least 8GB RAM.
+Requires at least 4GB RAM.
 
 ### Install packages (needs to be done once only at start)
 ```
