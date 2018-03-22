@@ -48,7 +48,7 @@ Requires at least 8GB RAM.
 sudo apt-get install \
       build-essential pkg-config libc6-dev m4 g++-multilib \
       autoconf libtool ncurses-dev unzip git python python-zmq \
-      zlib1g-dev wget bsdmainutils automake cmake
+      zlib1g-dev wget bsdmainutils automake cmake curl
 ```
 
 ### Obtain the ZERO software from GitHub
